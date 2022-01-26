@@ -1,0 +1,86 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/admin.vue",
+    "chunkName": "pages/admin"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/blog-details.vue",
+    "chunkName": "pages/blog-details"
+  },
+  {
+    "name": "blog-one",
+    "path": "/blog-one",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/blog-one.vue",
+    "chunkName": "pages/blog-one"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/cart.vue",
+    "chunkName": "pages/cart"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/checkout.vue",
+    "chunkName": "pages/checkout"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "diction-three",
+    "path": "/diction-three",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/diction-three.vue",
+    "chunkName": "pages/diction-three"
+  },
+  {
+    "name": "diction-two",
+    "path": "/diction-two",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/diction-two.vue",
+    "chunkName": "pages/diction-two"
+  },
+  {
+    "name": "gallery-one",
+    "path": "/gallery-one",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/gallery-one.vue",
+    "chunkName": "pages/gallery-one"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/products.vue",
+    "chunkName": "pages/products"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/signup.vue",
+    "chunkName": "pages/signup"
+  },
+  {
+    "name": "products-details-id",
+    "path": "/products-details/:id?",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/products-details/_id.vue",
+    "chunkName": "pages/products-details/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/mac/Desktop/vue-js cat-app test/bolsternuxtvuejs-1/bolsternuxtvuejs-10/bolster-ecommerce-nuxt-vue-js-template/bolster-vue/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
